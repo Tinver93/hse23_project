@@ -1,6 +1,7 @@
 # hse23_project
 
 фаста: https://www.ncbi.nlm.nih.gov/protein/NP_001982.2?report=fasta
+
 исходные файлы лежат на серере в папке amsheynkin/project/
 
 
