@@ -15,3 +15,9 @@
 
 
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/7b8fbb78-e54b-4f6f-b4e7-8b5cb16e2803)
+
+
+получаем:
+
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/865dd72b-4303-4a4b-82a1-70443e794e1c)
