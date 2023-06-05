@@ -25,7 +25,26 @@
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/55210610-9f54-441e-93b0-74a75a0b76f9)
 
 
-аналогично для всех гистонов (можно выбрать произвольный вариант из файло с гистонами)
+теперь надо разобраться с гистонами
+
+сделаем выравнивание для каждого из файлов гистонов
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/748f33a8-6720-4b5b-99b4-7323641b8913)
+
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/d95999f1-fdf4-4075-9d67-36f32adef323)
+
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/56d00923-e0e3-4ac2-a75c-d4b43971eb62)
+
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/9205661d-9719-4506-90cd-ae5e49ac4443)
+
+
+в целом для каждого гистона варианты очень похожи, поэтому можно считать их просто копиями друг друга и выбирать любые для дальнейших действий.
+
+
+
+аналогично делаем blastp  для всех гистонов (создадим файлы гистонов с одним вариантом)
 
 
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/6592c322-b2c7-4f8d-83f3-9742d4153bac)
