@@ -62,3 +62,13 @@
 ## Таблицы
 
 Дальше состаим таблички с минимальным e-value для каждого из организмов, сперва с чистыми значениями e-value, потом с логарифмированными
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/07571415-81fa-4ae3-b865-bf5677238c6d)
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/dbb46fcc-4935-438b-9e15-9e2ecdf42fcf)
+
+
+##Тепловая карта
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/c294ad4f-de82-4e87-bfd6-0d43bc44aa7c)
+
+
