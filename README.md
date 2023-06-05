@@ -68,7 +68,7 @@
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/dbb46fcc-4935-438b-9e15-9e2ecdf42fcf)
 
 
-##Тепловая карта
+## Тепловая карта
 
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/c294ad4f-de82-4e87-bfd6-0d43bc44aa7c)
 
