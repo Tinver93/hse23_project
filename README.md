@@ -25,10 +25,11 @@
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/55210610-9f54-441e-93b0-74a75a0b76f9)
 
 
-аналогично для всех гистонов
+аналогично для всех гистонов (можно выбрать произвольный вариант из файло с гистонами)
 
 
-![image](https://github.com/Tinver93/hse23_project/assets/115100892/7b8fbb78-e54b-4f6f-b4e7-8b5cb16e2803)
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/6592c322-b2c7-4f8d-83f3-9742d4153bac)
+
 
 
 получаем:
