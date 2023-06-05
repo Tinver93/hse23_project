@@ -1,5 +1,9 @@
 # hse23_project
 
+
+Ссылка на колаб: https://colab.research.google.com/drive/1Z0h03bNzdQBmyhZXYgOwIIJMWZ0iZGXE?usp=sharing
+
+
 ## Подготовка 
 
 
