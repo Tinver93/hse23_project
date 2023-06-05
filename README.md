@@ -28,16 +28,16 @@
 теперь надо разобраться с гистонами
 
 сделаем выравнивание для каждого из файлов гистонов
-![image](https://github.com/Tinver93/hse23_project/assets/115100892/748f33a8-6720-4b5b-99b4-7323641b8913)
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/fa541837-8c0e-46ec-8bb5-31de6326726f)
 
 
-![image](https://github.com/Tinver93/hse23_project/assets/115100892/d95999f1-fdf4-4075-9d67-36f32adef323)
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/099dbb25-728f-49fd-97c0-76888d0ebd11)
 
 
-![image](https://github.com/Tinver93/hse23_project/assets/115100892/56d00923-e0e3-4ac2-a75c-d4b43971eb62)
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/99659083-4100-49cb-9f62-e5cd2fcbe8da)
 
 
-![image](https://github.com/Tinver93/hse23_project/assets/115100892/9205661d-9719-4506-90cd-ae5e49ac4443)
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/782cd905-fbb0-4f57-a5c0-75ae7912900c)
 
 
 в целом для каждого гистона варианты очень похожи, поэтому можно считать их просто копиями друг друга и выбирать любые для дальнейших действий.
