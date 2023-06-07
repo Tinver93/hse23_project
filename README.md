@@ -14,6 +14,10 @@
 ![image](https://github.com/Tinver93/hse23_project/assets/115100892/7711ac3d-a90f-49c4-b34d-a372949ce3bb)
 
 
+картинка комплекса PRC1
+
+![image](https://github.com/Tinver93/hse23_project/assets/115100892/2f662ee3-e396-4b40-82ce-d5f9583cf60b)
+
 
 ## Подготовка 
 
